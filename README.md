@@ -7,7 +7,9 @@ BigMarket will be advising SellBy if an investment in Amazon Vine memberships is
 Results: 
 
 -We see that sixty reviews are from Vine members, while 14,477 reviews are not from Vine members.
+
 -Thirty-four of the 60 Vine-member reviews are 5 stars, making the percentage of 5-star Vine-member reviews 56.67%.
+
 -Meanwhile, 8,212 reviews from the 14,477 non-members are 5 stars. Non-member 5-star reviews are 56.72 percent.
 
 
